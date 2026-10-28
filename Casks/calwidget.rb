@@ -1,6 +1,6 @@
 cask "calwidget" do
   version "27.0"
-  sha256 "56ce97ecc06f7a448d5136118c0c4a9e2530f2542c099768077a37e43407fc60"
+  sha256 "6944bbfbc9312944bcfb8e36fc09d5d78e40086b88119bc94de8a7e6b79f361a"
 
   url "https://github.com/Hitjack007/CalWidget/releases/download/v27.0/CalWidget-27.0.dmg"
   name "CalWidget"
